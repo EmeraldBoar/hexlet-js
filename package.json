@@ -1,0 +1,23 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmeraldBoar/hexlet-js.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Konstantin Kozlov <kozlovkv174@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmeraldBoar/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/EmeraldBoar/hexlet-js#readme"
+}
