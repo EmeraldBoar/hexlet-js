@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/EmeraldBoar/hexlet-js/issues"
   },
-  "homepage": "https://github.com/EmeraldBoar/hexlet-js#readme"
+  "homepage": "https://github.com/EmeraldBoar/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
